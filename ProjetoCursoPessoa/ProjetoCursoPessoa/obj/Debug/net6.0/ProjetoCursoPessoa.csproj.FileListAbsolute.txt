@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\bin\Debug\net6.0\ProjetoCursoPessoa.exe
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\bin\Debug\net6.0\ProjetoCursoPessoa.deps.json
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\bin\Debug\net6.0\ProjetoCursoPessoa.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\bin\Debug\net6.0\ProjetoCursoPessoa.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\bin\Debug\net6.0\ProjetoCursoPessoa.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\refint\ProjetoCursoPessoa.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ProjetoCursoPessoa.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\ProjetoCursoPessoa\ProjetoCursoPessoa\obj\Debug\net6.0\ref\ProjetoCursoPessoa.dll

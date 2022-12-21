@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\bin\Debug\net6.0\SistemaDeHospedagem.exe
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\bin\Debug\net6.0\SistemaDeHospedagem.deps.json
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\bin\Debug\net6.0\SistemaDeHospedagem.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\bin\Debug\net6.0\SistemaDeHospedagem.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\bin\Debug\net6.0\SistemaDeHospedagem.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\refint\SistemaDeHospedagem.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\SistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\Sistema de Hospedagem\Sistema de Hospedagem\obj\Debug\net6.0\ref\SistemaDeHospedagem.dll
