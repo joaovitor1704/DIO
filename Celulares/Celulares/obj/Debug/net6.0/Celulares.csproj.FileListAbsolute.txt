@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\bin\Debug\net6.0\Celulares.exe
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\bin\Debug\net6.0\Celulares.deps.json
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\bin\Debug\net6.0\Celulares.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\bin\Debug\net6.0\Celulares.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\bin\Debug\net6.0\Celulares.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\refint\Celulares.dll
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.pdb
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\Celulares.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\DIO\DIO\Celulares\Celulares\obj\Debug\net6.0\ref\Celulares.dll
